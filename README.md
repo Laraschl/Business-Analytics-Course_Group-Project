@@ -19,12 +19,18 @@ Course: Network & Business Analytics
 Project Components
 
 The repository includes the following components:
+
   Report
+  
   Data Description
+  
   Analyses:
-        Descriptive Analysis 
-        Predictive Analysis 
-        Machine Learning Model 
+  
+   Descriptive Analysis 
+   
+   Predictive Analysis 
+   
+   Machine Learning Model 
 
  
  This project is for academic purposes only!
